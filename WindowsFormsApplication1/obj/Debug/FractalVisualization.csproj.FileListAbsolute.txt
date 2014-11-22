@@ -1,0 +1,10 @@
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\bin\Debug\fractals.exe
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\bin\Debug\fractals.pdb
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\obj\Debug\FractalVisualization.csprojResolveAssemblyReference.cache
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\obj\Debug\FractalVisualization.csproj.GenerateResource.Cache
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\programming\Shpora\02-fractals\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
